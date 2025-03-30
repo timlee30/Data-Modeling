@@ -1,4 +1,4 @@
-# 📘 Week 2: Fact Data Modeling - Lab Guide
+# 📘 Fact Data Modeling - Lab Guide
 
 ## 📌 Overview
 This guide provides a detailed breakdown of the lab files used in **Week 2: Fact Data Modeling**. Each SQL script is designed to transform, aggregate, and optimize data for analytical processing. The key focus areas include **tracking user activity, summarizing device metrics, and generating efficient fact tables**.
